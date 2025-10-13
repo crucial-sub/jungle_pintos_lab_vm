@@ -33,11 +33,7 @@
         "utility": "c",
         "filesys.h": "c",
         "file.h": "c",
-        "synch.h": "c",
-        "stdbool.h": "c",
-        "atomic": "c",
-        "cstdint": "c",
-        "random": "c"
+        "synch.h": "c"
     },
     "files.eol": "\n"
 }
